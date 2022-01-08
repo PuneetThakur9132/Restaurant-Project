@@ -1,0 +1,143 @@
+
+body{
+    background-image: url("imgs/lukas-blazek-EWDvHNNfUmQ-unsplash.jpg");
+    background-size:contain;
+}
+.types{
+    width:100%;
+    display:flex;
+    justify-content:space-evenly;
+    margin-top:30px;
+    
+}
+.types button{
+    width:100px;
+    height:100px;
+    border-radius:50%;
+    border: 5px solid black;
+    
+}
+#ipsum{
+    background-color:#d8bbff;
+    height:237.37px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size:50px;
+    font-weight:700;
+    border:3px solid #d0d1ff;
+}
+#jipsum{
+    background-color:#d8bbff;
+    height:237.37px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    font-size:50px;
+    font-weight:700;
+    border:3px solid #d0d1ff;
+}
+.icons img{
+    height:70px;
+    margin-bottom:15px;
+}
+.icons{
+    margin-top:50px;
+    display:flex;
+    justify-content: space-between;
+    border-right:5px solid #d0d1ff;
+}
+
+.fill1{
+    background-color: #d8bbff;
+    border-right:5px solid #d0d1ff;
+}
+.fill2{
+    background-color: #d8bbff;
+    border-right:5px solid #d0d1ff;
+}
+.fill3{
+
+    background-color: #d8bbff;
+    border-right:5px solid #d0d1ff;
+}
+.fill4{
+
+    background-color: #d8bbff;
+    border-right:5px solid #d0d1ff;
+}
+.icons .unique{
+    font-weight:700;
+}
+.types button:hover{
+    opacity:0.5;
+
+}
+.types button{
+    transition:500ms;
+}
+.types .bt1{
+    background-image: url("imgs/kelly-visel-MH_lBTvkvPM-unsplash.jpg");
+    background-size: cover;
+    color:white;
+    font-weight:700;
+}
+.types .bt2{
+    background-image: url("imgs/bon-vivant-qom5MPOER-I-unsplash.jpg");
+    background-size: cover;
+    color:white;
+    font-weight:700;
+}
+.types .bt3{
+    background-image: url("https://images.unsplash.com/photo-1609582848349-215e8bf397d3?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1534&q=80");
+    background-size: cover;
+    color:white;
+    font-weight:700;
+
+}
+.types .bt4{
+    background-image: url("https://images.unsplash.com/photo-1582169296194-e4d644c48063?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=603&q=80");
+    background-size: cover;
+    color:white;
+    font-weight:700;
+
+}
+.types .bt5{
+    background-image: url("https://images.unsplash.com/photo-1567337710282-00832b415979?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=888&q=80");
+    background-size: cover;
+    color:white;
+    font-weight:700;
+
+}
+.types .bt6{
+    background-image: url("https://images.unsplash.com/photo-1563245372-f21724e3856d?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=829&q=80");
+    background-size: cover;
+    color:white;
+    font-weight:700;
+}
+.lexo{
+    margin:15px 20px;
+    background-color:#d8bbff;
+    display:flex;
+    justify-content: flex-start;
+    align-items: center;
+}
+.lexo .lexicum{
+    text-align:left;
+    color:#272640;
+    font-weight:900;
+}
+.lexicum button{
+    padding:15px 25px;
+    background-color:#9a8c98;
+    font-size:20px;
+    color:white;
+    font-weight:500;
+    transition:500ms;
+}
+.lexicum button:hover{
+    background-color: #4a4e69;
+}
+
+
+
